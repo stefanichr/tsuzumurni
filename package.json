@@ -1,0 +1,23 @@
+{
+  "name": "uaspemrog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanichr/uaspemrog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanichr/uaspemrog/issues"
+  },
+  "homepage": "https://github.com/stefanichr/uaspemrog#readme"
+}
